@@ -1,3 +1,3 @@
 ## Documentation
 -------------------------
-Create necessary folders here to upload source code if any. Edit this file to create a documentation of uploaded code.
+poolfriend.txt is the code for the website created by our team.
