@@ -1,0 +1,70 @@
+<html>
+    <head>
+        <title>TRANSPORT domain</title>
+        <link href="newcss.css" rel="stylesheet" type="text/css"/>
+       
+    </head>
+    <body>
+        <h1 class="header1"><u><b>POOLFRIEND</b></u></h1><br>
+        <div class="f">
+            <b>How many times you people have heard the increase in transport system have led to increase in pollution and have damaged our health in many ways!<br>
+            But we have never thought how we can make our lifestyle better and live a healthy life.
+           <br>
+           No need to worry because we are here to solve your problem and suggest you some idea that can really change our standard of living and reduce the damage caused due to pollution</b><br><br>
+           <h2>All we can do is: </h2><ul><li><b><em><u>Apply the method of CARPOOLING.</u></em></b></li>
+               <li><b><em><u>Make use of public transport</u></em></b></li><ul></div>
+           
+           
+   
+         <h2 class="header2"><u>WHAT CAN BE DONE:</u></h2>
+        <div class="new">
+            <ol><h3>CARPOOLING:</h3>
+                <li>Benefit should be more.So to increase the benefit cost should be managed,so that even in surge it is cheaper</li>
+                <li>Women's safety and security has to be improved as women's can be a great source for carpooling</li>
+            </ol><br><br>
+            <ol><h3>PUBLIC TRANSPORT:</h3>
+                <li>Public transport system should be more technological</li>
+                <li>As it can be a great support for blind people and other specially abled etc. for them special kind of facilities can be designed</li>
+                <ul><li>What we can do is as they can't book a ticket by going to the desired location and can't use phone, they can register their name in specially able class ,and get a remote(with show location and in need of transport) with one button or something like that which when clicked by them will pick them up from the desired location by detecting their location</li> </ul>
+                <li>Improving the facilities and infrastructure can attract more people ,because everyone wants a comfortable journey</li>
+                 <li>Ticket system has to be more swifter so that every class of people(ones with less online knowledge) can also be able to book their ride<br><b>So what we can do for those people is:</b></li>
+                <ul><li>Construct a proper offline booking center near to ever bus stop</li></ul>
+                    <li>Water can be served because most of the people are tired when they return from work and water costs nothing</li>
+                    <li>Number of public transport should increase, because due to less availability of transport system like buses gets overcrowded most of times which is one of the reason people don't prefer it </li>
+                    <li>Reduce the journey hour</li>
+                    <li>Stoppage frequency should increase so that people find it more beneficial</li>
+                    <li>Young masses has to be attracted towards it, so infrastructure should be good, new system of opening of door and window can be used</li>
+                    <li>App on the mobile phone should be easy to use, like just by setting the destination and location , the user can get all the detail,seats available and much more</li>
+                    <li>We can divide the buses into 3 sector as in train:Express,Passenger and Superfast</li>
+                    <li>We can improve the usage of pink autos which will be strictly available for women</li>
+                    <li>As metro is fast and easy ,it should be introduced to many other cities, like in Bhubaneswar</li>
+                    <li>Cabs can increase share option</li>
+                    <li>As reduction of cost is not that easier due to the cost of petrol and other stuff ,and as the technology have increased,so engineer can design such transport facility which can work without petrol and this will reduce cost</li></ul>
+            </ol></div>
+        
+           
+        <h2 class="header2"><u>BENEFITS:</u></h2>
+        <div class="new">
+            <b>PEOPLE SHOULD ALSO KNOW HOW PUBLIC TRANSPORT AND CARPOOLING IS BETTER OPTION THAN USING PERSONAL TRANSPORT SYSTEM :</b>
+            <ol><h3>BENIFITS OF CARPOOLING:</h3>
+                <li>More interaction with society people</li>
+                <li>Know people around us and the culture</li>
+                <li>If people travel alone like from workplace to home, two people can exchange their idea instead of sitting quiet and driving</li>
+                
+            </ol><br><br>
+            <ol><h3>BENIFITS OF USING PUBLIC TRANSPORT:</h3>
+               <li>Enjoy a beautiful ride after work,instead of driving on their own(what many people does)</li>
+                <li>Cheaper than personal transportation cost</li>
+                <li>Less pollution</li>
+               <ol></div>
+
+           
+               FOR THIS WE NEED TO SPREAD AWARENESS AND REACH MAXIMUM NUMBER OF PEOPLE , WORK IN UNITY AND PUT FORWARD OUR POINT TO THE GOVERNMENT AND THIS NEED THE CONTRIBUTION OF ALL PEOPLE IN A SOCIETY.
+            
+            
+               <footer>
+             <div class="abc">PRESENTED BY TEAM: ALPHA HYDRANOID<div class="abc">TEAM MEMBERS:Shiladitya Roy,Snigha Panda,Shambhavi Sharma</div></a>
+</div>
+    </footer>
+    </body>
+    </html>
