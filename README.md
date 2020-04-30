@@ -6,9 +6,9 @@
 This project is basically implemented for promoting people to use public transport and carpool for travel:
 
 * Problems tried to be solved
-Environmental problems
-Transportation problems
-Provide easy access to all the people (online as well as offline).
+*Environmental problems
+*Transportation problems
+*Provide easy access to all the people (online as well as offline).
 
 * Proposed solution
 Creation of a site "POOLFRIEND" by our team
