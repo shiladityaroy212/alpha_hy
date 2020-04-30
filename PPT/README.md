@@ -1,3 +1,3 @@
 ## PPT
 --------------------------
-Upload your final PPT in this folder.
+The ppt describes about the type of project we did along with all the necessary details.
